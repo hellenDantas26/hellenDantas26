@@ -1,4 +1,7 @@
-<img width="1525" height="426" alt="image" src="https://github.com/user-attachments/assets/359aa04e-38f9-4bf8-91fb-120e3805e4d4" />
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hellen+Dantas;Salesforce+%26+AI+Integration;Building+Intelligent+CRM+Solutions" />
+</p>
 
 
 ## 👩‍💻 About Me
@@ -39,6 +42,13 @@ Currently expanding my expertise in:
 ### Data & Query
 ![SOQL](https://img.shields.io/badge/SOQL-Salesforce_Query_Language-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data-blue?style=for-the-badge)
+
+---
+
+## 📜 Certifications
+
+🏅 Salesforce Certified Administrator  
+🏅 Flosum Certified Professional  
 
 ---
 
