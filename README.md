@@ -44,13 +44,29 @@ Currently expanding my expertise in:
 ![SQL](https://img.shields.io/badge/SQL-Data-blue?style=for-the-badge)
 
 ---
+<br><br/>
 
-## 📜 Certifications
+## 🏆 Principais Certificações
 
-🏅 Salesforce Certified Administrator  
-🏅 Flosum Certified Professional  
+
+> <img src="2021-03_Badge_SF-Certified_Administrator_500x490px.png" width="50" align="left" />
+> **Salesforce Certified Administrator**  
+> Administração de Salesforce, automações e boas práticas em CRM.  
+>  
+> <br clear="left"/>
 
 ---
+
+> <img src="Flosum.png" width="210" align="left" />
+> **Flosum Certified Professional**  
+> DevOps Salesforce com versionamento, branching e deploy controlado.  
+>  
+> <br clear="left"/>
+
+
+---
+
+<br><br/>
 
 ## 🌍 Career Focus
 
@@ -60,6 +76,3 @@ My goal is to build intelligent integration architectures combining:
 - Cloud AI services
 - Generative AI models
 - Automation frameworks
-
-Focused on scalable and international-ready solutions.
-
