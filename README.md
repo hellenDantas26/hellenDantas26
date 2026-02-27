@@ -6,15 +6,17 @@
 
 ## 👩‍💻 About Me
 
-I'm a Salesforce CRM & Automation Specialist and AI-driven solutions.
+I'm a Salesforce CRM & Automation Specialist focused on AI-driven and multi-cloud solutions.
 
-I work connecting Salesforce ecosystems with external services, APIs and intelligent systems, transforming business processes into scalable technical solutions.
+I connect Salesforce ecosystems with external services, APIs and intelligent cloud platforms, transforming business processes into scalable technical solutions.
 
 Currently expanding my expertise in:
 
-- Azure AI Services
-- Generative AI integrations
-- LLM-powered automation
+- Azure AI Services  
+- Google Cloud (Vertex AI & Generative AI)  
+- LLM-powered automation  
+- Multi-cloud AI integrations  
+
 ---
 
 ## 🚀 What I Do
@@ -23,9 +25,8 @@ Currently expanding my expertise in:
 🔹 API Integrations (REST, Callouts, External Services)  
 🔹 AI + Salesforce Integration  
 🔹 Azure AI (Document Intelligence, AI Studio)  
+🔹 Google Cloud AI (Vertex AI, Generative Services)  
 🔹 Business Process Optimization  
-
----
 
 ## 🛠 Tech Stack
 
@@ -34,9 +35,15 @@ Currently expanding my expertise in:
 ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-Automation-blue?style=for-the-badge)
 
-### AI & Cloud
+### ☁️ AI & Multi-Cloud
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-Generative_AI-0078D4?style=for-the-badge)
+![Azure AI](https://img.shields.io/badge/Azure_AI-Generative_Services-0078D4?style=for-the-badge)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-LLM_Integration-6A5ACD?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data & Query
@@ -70,9 +77,11 @@ Currently expanding my expertise in:
 
 ## 🌍 Career Focus
 
-My goal is to build intelligent integration architectures combining:
+Focused on building intelligent and scalable integrations that combine:
 
-- Salesforce
-- Cloud AI services
-- Generative AI models
-- Automation frameworks
+- Salesforce automation and data modeling  
+- Multi-cloud AI services (Azure & Google Cloud)  
+- Generative AI and LLM-powered workflows  
+- Secure and reliable API integrations  
+
+Continuously evolving as a technical specialist in CRM and AI-driven solutions.
